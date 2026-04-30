@@ -63,7 +63,7 @@ export default function AnticaOfficinaPage() {
               
               <div className="prose prose-lg max-w-none text-gray-600">
                 <p>
-                  Nel cuore di Mandello del Lario, esattamente dove oggi sorge il 
+                  Nel cuore di Mandello del Lario, esattamente dove oggi sorge l' 
                   <strong>Antica Officina B&B</strong>, si trovava la prima officina della Moto Guzzi. 
                   Era il 1921 quando tre giovani amici — Carlo Guzzi, Giorgio Parodi e 
                   Giovanni Ravelli — decisero di dare vita al loro sogno.
