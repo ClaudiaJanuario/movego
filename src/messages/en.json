@@ -1,0 +1,81 @@
+{
+  "nav": {
+    "home": "Home",
+    "events": "Events",
+    "history": "History",
+    "literature": "Literature",
+    "partners": "Partners",
+    "blog": "Blog",
+    "tours": "Guided Tours",
+    "bb": "Antica Officina B&B",
+    "contact": "Contact"
+  },
+  "hero": {
+    "slogan": "The Guzzi Soul, Every Way You Go.",
+    "description": "In the heart of Lake Como, where a legend on two wheels was born in 1921, Mandello del Lario stands as the world capital of historic motorcycle tourism. MOVE GO is the digital platform that celebrates this unique heritage, uniting tradition, innovation and global community in a real-time tourism ecosystem.",
+    "cta_events": "Discover Events",
+    "cta_tours": "Book a Tour",
+    "cta_history": "Explore History"
+  },
+  "events": {
+    "title": "Upcoming Events",
+    "subtitle": "Discover all Moto Guzzi world events",
+    "ai_powered": "AI Real-Time Aggregation",
+    "view_all": "View All Events",
+    "no_events": "No events scheduled"
+  },
+  "history": {
+    "title": "The History",
+    "subtitle": "A century of passion and innovation",
+    "discover": "Discover the Full Story",
+    "timeline": "Interactive Timeline"
+  },
+  "partners": {
+    "title": "Hospitality Partners",
+    "subtitle": "Certified facilities to live the Guzzi experience",
+    "become_partner": "Become a Partner",
+    "view_all": "View All Partners"
+  },
+  "tours": {
+    "title": "Guided Tours",
+    "subtitle": "Explore Mandello with expert guides",
+    "book": "Book Tour",
+    "duration": "Duration",
+    "languages": "Languages",
+    "price": "Price"
+  },
+  "bb": {
+    "title": "Antica Officina B&B",
+    "subtitle": "Where the Moto Guzzi legend was born",
+    "historic_place": "Historic Place",
+    "book_stay": "Book Your Stay",
+    "discover": "Discover the Full Story"
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "We're here to help",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send Message",
+    "address": "Address",
+    "phone": "Phone"
+  },
+  "common": {
+    "read_more": "Read More",
+    "book_now": "Book Now",
+    "contact_us": "Contact Us",
+    "view_all": "View All",
+    "loading": "Loading..."
+  },
+  "footer": {
+    "description": "Digital tourism platform for Mandello del Lario and the Moto Guzzi world",
+    "quick_links": "Quick Links",
+    "contact": "Contact",
+    "follow_us": "Follow Us",
+    "rights": "All rights reserved",
+    "privacy": "Privacy Policy",
+    "terms": "Terms and Conditions",
+    "cookies": "Cookie Policy"
+  }
+}
